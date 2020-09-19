@@ -2,3 +2,8 @@ h1 {
   text-align: center;
   color: violet;
 }
+img {
+  width: 300px;
+  margin: auto;
+  display: block;
+}
